@@ -21,3 +21,21 @@ I also make Bots and Games!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzerzv)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzerzv&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+# Software Engineer 
+<details>
+  <summary>Click here</summary>
+
+## My Coding Langs
+<details>
+<table>
+  <tr><th></th><th>Hours Spent</th></tr>
+  <tr><td>Javascript</td><td>200+</td></tr>
+  <tr><td>C#</td><td>400+</td></tr>
+  <tr><td>HTML5 & CSS3</td><td>15+</td></tr>
+  <tr><td>Python</td><td>10+</td></tr>
+  <tr><td>C++</td><td>50+</td></tr>
+</table>
+</details>
+<br>
