@@ -7,6 +7,9 @@ I also make Bots and Games!
 
 
 
+### DISCORD
+
+<img src="https://discord.c99.nl/widget/theme-1/898700755689689098.png"/>
 
 
 
