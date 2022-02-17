@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ### About ME
-I am a ``C#`` **&** ``Javascript`` Developer!
 
-I also make Bots and Games!
+I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.
 
 
 
@@ -26,19 +25,12 @@ I also make Bots and Games!
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzerzv&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-# Software Engineer 
-<details>
-  <summary>Click here</summary>
-
-## My Coding Langs
+# My Projects
 <details>
 <table>
-  <tr><th></th><th>Hours Spent</th></tr>
-  <tr><td>Javascript</td><td>200+</td></tr>
-  <tr><td>C#</td><td>400+</td></tr>
-  <tr><td>HTML5 & CSS3</td><td>15+</td></tr>
-  <tr><td>Python</td><td>10+</td></tr>
-  <tr><td>C++</td><td>50+</td></tr>
+  <tr><td>LunarFN</td><td>https://www.lunarfn.com</td></tr>
+  <tr><td>Faded</td><td>https://www.project-faded.tk/</td></tr>
+  <tr><td>Devo</td><td>https://bit.ly/3AVqKZL</td></tr>
 </table>
 </details>
 <br>
