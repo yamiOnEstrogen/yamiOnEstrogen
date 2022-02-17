@@ -16,9 +16,9 @@ I am a full stack developer & software engineer, working on multiple open source
 ### STATS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radiolmao&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexidevlol&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radiolmao)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexidevlol)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzerzv&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
