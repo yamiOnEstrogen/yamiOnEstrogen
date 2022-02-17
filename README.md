@@ -1,19 +1,18 @@
 ### Hi there 👋
-# ____________________________________________________________________________
 
-### About ME
+# About ME
 
 I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.
 
 
 
-### DISCORD
+# DISCORD
 
 <img src="https://discord.c99.nl/widget/theme-1/898700755689689098.png"/>
 
 
 
-### Languages
+# Languages
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <br />
