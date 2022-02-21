@@ -62,3 +62,7 @@ I am a full stack developer & software engineer, working on multiple open source
 </table>
 </details>
 <br>
+ 
+ ### Support me!
+
+<a href="https://www.buymeacoffee.com/vexi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vexi&button_colour=000000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
