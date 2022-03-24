@@ -1,8 +1,36 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Pre</h1>
+<h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
-### About ME
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vexidevlol&label=Profile%20views&color=0e75b6&style=flat" alt="vexidevlol" /> </p>
 
-I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vexidevlol" alt="vexidevlol" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/not_vexidev" target="blank"><img src="https://img.shields.io/twitter/follow/not_vexidev?logo=twitter&style=for-the-badge" alt="not_vexidev" /></a> </p>
+
+- 🔭 I’m currently working on [Snap Work](https://github.com/Vexidevlol/snap-work)
+
+- 🌱 I’m currently learning **Ruby, Rust and Vue**
+
+- 👯 I’m looking to collaborate on [LunarFN](https://www.lunarfn.com/)
+
+- 🤝 I’m looking for help with [Devo Bot](https://github.com/Vexidevlol/Devo-Bot)
+
+- 👨‍💻 All of my projects are available at [https://www.vexidev.tk/](https://www.vexidev.tk/)
+
+- 📝 I regularly write articles on [https://www.vexidev.tk/](https://www.vexidev.tk/)
+
+- 💬 Ask me about **C# or C++**
+
+- 📫 How to reach me **premature_.dev@outlook.com**
+
+- ⚡ Fun fact **I'm a 15 Year Old Programmer with 3 years of Knowledge**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/not_vexidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_vexidev" height="30" width="40" /></a>
+<a href="https://instagram.com/swatted.pre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swatted.pre" height="30" width="40" /></a>
+<a href="https://discord.gg/JHc82uHhfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JHc82uHhfc" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages:</h3>
@@ -44,11 +72,11 @@ I am a full stack developer & software engineer, working on multiple open source
 ### STATS
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vexidevlol&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vexidevlol&show_icons=true&locale=en&layout=compact" alt="vexidevlol" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexidevlol)](https://github.com/anuraghazra/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vexidevlol&show_icons=true&locale=en" alt="vexidevlol" /></p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzerzv&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vexidevlol&" alt="vexidevlol" /></p>
 
 
 
@@ -61,10 +89,3 @@ I am a full stack developer & software engineer, working on multiple open source
   <tr><td>Devo</td><td>https://bit.ly/3AVqKZL</td></tr>
 </table>
 </details>
-<br>
- 
- ### Support me!
-
-<a href="https://www.buymeacoffee.com/vexi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=vexi&button_colour=000000&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
- 
- <a href="https://camo.githubusercontent.com/134da2fd647f8d90f700ff9c2433b0498db1791bf3d1c31d2f6d8232f5297d3e/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3834363731333233313636313732373738342f3931393837363339393536333638313836322f66696c652e676966" /></a>
