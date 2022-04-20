@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/not_vexidev" target="blank"><img src="https://img.shields.io/twitter/follow/not_vexidev?logo=twitter&style=for-the-badge" alt="not_vexidev" /></a> </p>
 
-- 🔭 I’m currently working on [Snap Work](https://github.com/Vexidevlol/snap-work)
+- 🔭 I’m currently working on [Blacknight Utils](https://github.com/Vexidevlol/BK-Utils)
 
 - 🌱 I’m currently learning **Ruby, Rust and Vue**
 
-- 👯 I’m looking to collaborate on [LunarFN](https://www.lunarfn.com/)
+- 👯 I’m looking to collaborate on [Devo Bot](https://github.com/Vexidevlol/Devo-Bot)
 
-- 🤝 I’m looking for help with [Devo Bot](https://github.com/Vexidevlol/Devo-Bot)
+- 🤝 I’m looking for help with [LunarFN](https://www.lunarfn.com/)
 
-- 👨‍💻 All of my projects are available at [https://www.vexidev.tk/](https://www.vexidev.tk/)
+- 👨‍💻 All of my projects are available at [Vexidev](https://www.vexidev.tk/)
 
-- 📝 I regularly write articles on [https://www.vexidev.tk/](https://www.vexidev.tk/)
+- 📝 I regularly write articles on [Vexidev](https://www.vexidev.tk/)
 
 - 💬 Ask me about **C# or C++**
 
 - 📫 How to reach me **premature_.dev@outlook.com**
 
-- ⚡ Fun fact **I'm a 15 Year Old Programmer with 3 years of Knowledge**
+- ⚡ Fun fact **I'm a 15 Year Old Programmer with 2 years of Knowledge**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
