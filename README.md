@@ -81,11 +81,5 @@
 
 
 
-### My Projects
-<details>
-<table>
-  <tr><td>LunarFN</td><td>https://www.lunarfn.com</td></tr>
-  <tr><td>Faded</td><td>https://www.project-faded.tk/</td></tr>
-  <tr><td>Devo</td><td>https://bit.ly/3AVqKZL</td></tr>
-</table>
-</details>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/predev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="predev" /></a></p><br><br>
