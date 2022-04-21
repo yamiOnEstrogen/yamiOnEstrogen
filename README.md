@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Vexidev](https://www.vexidev.tk/)
 
-- 💬 Ask me about **C# or C++**
+- 💬 Ask me about **C# | C++ | Java | Typescript | Javascript | Python**
 
 - 📫 How to reach me **premature_.dev@outlook.com**
 
@@ -28,7 +28,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/not_vexidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_vexidev" height="30" width="40" /></a>
-<a href="https://instagram.com/swatted.pre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swatted.pre" height="30" width="40" /></a>
 <a href="https://discord.gg/JHc82uHhfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JHc82uHhfc" height="30" width="40" /></a>
 </p>
 
