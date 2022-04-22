@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/not_vexidev" target="blank"><img src="https://img.shields.io/twitter/follow/not_vexidev?logo=twitter&style=for-the-badge" alt="not_vexidev" /></a> </p>
 
-- 🔭 I’m currently working on [Blacknight Utils](https://github.com/Vexidevlol/BK-Utils)
+- 🔭 I’m currently working on [Blacknight Utils](https://github.com/BlackNightUtil)
 
 - 🌱 I’m currently learning **Ruby, Rust and Vue**
 
