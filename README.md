@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pre</h1>
+<h1 align="center">Hi 👋, I'm Pre || Kumiko</h1>
 <h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vexidevlol&label=Profile%20views&color=0e75b6&style=flat" alt="vexidevlol" /> </p>
