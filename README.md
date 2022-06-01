@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumiko</h1>
 <h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vexidevlol&label=Profile%20views&color=0e75b6&style=flat" alt="vexidevlol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumikodev&label=Profile%20views&color=0e75b6&style=flat" alt="vexidevlol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vexidevlol" alt="vexidevlol" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumikodev" alt="vexidevlol" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/not_vexidev" target="blank"><img src="https://img.shields.io/twitter/follow/not_vexidev?logo=twitter&style=for-the-badge" alt="not_vexidev" /></a> </p>
 
@@ -66,7 +66,7 @@
 
 ### DISCORD
 
-<img src="https://discord.c99.nl/widget/theme-1/898700755689689098.png"/>
+<img src="https://discord.c99.nl/widget/theme-1/547923574833545226.png"/>
 
 ### STATS
 
@@ -75,7 +75,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vexidevlol&show_icons=true&locale=en" alt="vexidevlol" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vexidevlol&" alt="vexidevlol" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumikodev&" alt="vexidevlol" /></p>
 
 
 
