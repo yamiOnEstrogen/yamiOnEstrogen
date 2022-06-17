@@ -66,7 +66,7 @@
 
 ### DISCORD
 
-<img src="https://discord.c99.nl/widget/theme-1/547923574833545226.png"/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/547923574833545226)](https://discord.com/users/547923574833545226)
 
 ### STATS
 
