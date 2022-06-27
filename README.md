@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kumiko</h1>
 <h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumikodev&label=Profile%20views&color=0e75b6&style=flat" alt="vexidevlol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumikodev&label=Profile%20views&color=0e75b6&style=flat" alt="kumikodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumikodev" alt="vexidevlol" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumikodev" alt="kumikodev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/not_vexidev" target="blank"><img src="https://img.shields.io/twitter/follow/not_vexidev?logo=twitter&style=for-the-badge" alt="not_vexidev" /></a> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Ruby, Rust and Vue**
 
-- 👯 I’m looking to collaborate on [Devo Bot](https://github.com/Vexidevlol/Devo-Bot)
+- 👯 I’m looking to collaborate on [Devo Bot](https://github.com/kumikodev/Devo-Bot)
 
 - 🤝 I’m looking for help with [LunarFN](https://www.lunarfn.com/)
 
-- 👨‍💻 All of my projects are available at [Vexidev](https://www.vexidev.tk/)
+- 👨‍💻 All of my projects are available at [KumikoDev](https://www.kumiko-dev.tk/)
 
-- 📝 I regularly write articles on [Vexidev](https://www.vexidev.tk/)
+- 📝 I regularly write articles on [KumikoDev](https://www.kumiko-dev.tk/)
 
 - 💬 Ask me about **C# | C++ | Java | Typescript | Javascript | Python**
 
@@ -71,14 +71,6 @@
 ### STATS
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumikodev&show_icons=true&locale=en&layout=compact" alt="vexidevlol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumikodev&show_icons=true&locale=en&layout=compact" alt="kumikodev" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumikodev&show_icons=true&locale=en" alt="kumikodev" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumikodev&" alt="kumikodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumikodev&show_icons=true&locale=en" alt="vexidevlol" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumikodev&" alt="vexidevlol" /></p>
-
-
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/predev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="predev" /></a></p><br><br>
