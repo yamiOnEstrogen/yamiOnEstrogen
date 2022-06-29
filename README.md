@@ -25,12 +25,6 @@
 
 - ⚡ Fun fact **I'm a 15 Year Old Programmer with 2 years of Knowledge**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/not_vexidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="not_vexidev" height="30" width="40" /></a>
-<a href="https://discord.gg/JHc82uHhfc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JHc82uHhfc" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">Languages:</h3>
  </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
