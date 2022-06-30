@@ -56,6 +56,11 @@
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
 
 
+### SPOTIFY
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ztkrtzz4grziugqpjtxna74ija&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31ztkrtzz4grziugqpjtxna74ija&redirect=true)
+
+
 ### DISCORD
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/547923574833545226)](https://discord.com/users/547923574833545226)
