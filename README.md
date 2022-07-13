@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kumiko</h1>
+<h1 align="center">Hi 👋, I'm Pre</h1>
 <h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumikodev&label=Profile%20views&color=0e75b6&style=flat" alt="kumikodev" /> </p>
@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [LunarFN](https://www.lunarfn.com/)
 
-- 👨‍💻 All of my projects are available at [KumikoDev](https://www.kumiko-dev.tk/)
+- 👨‍💻 All of my projects are available at [PreDev](https://predev.xyz)
 
-- 📝 I regularly write articles on [KumikoDev](https://www.kumiko-dev.tk/)
+- 📝 I regularly write articles on [PreDev](https://predev.xyz)
 
 - 💬 Ask me about **C# | C++ | Java | Typescript | Javascript | Python**
 
