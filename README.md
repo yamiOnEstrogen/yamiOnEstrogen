@@ -9,19 +9,15 @@
 
 - 🌱 I’m currently learning **Ruby, Rust and Vue**
 
-- 👯 I’m looking to collaborate on [Devo Bot](https://github.com/kumikodev/Devo-Bot)
+- 👯 I’m looking to collaborate on [Lay.rip](https://github.com/LayRipp)
 
-- 🤝 I’m looking for help with [LunarFN](https://www.lunarfn.com/)
-
-- 👨‍💻 All of my projects are available at [PreDev](https://predev.xyz)
-
-- 📝 I regularly write articles on [PreDev](https://predev.xyz)
+- 🤝 I’m looking for help with [Lay.rip](https://github.com/LayRipp)
 
 - 💬 Ask me about **C# | C++ | Java | Typescript | Javascript | Python**
 
 - 📫 How to reach me **premature_.dev@outlook.com**
 
-- ⚡ Fun fact **I'm a 15 Year Old Programmer with 2 years of Knowledge**
+- ⚡ Fun fact **I'm a 15 Year Old Programmer with 3 years of Knowledge**
 
 
 <h3 align="left">Languages:</h3>
