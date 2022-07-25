@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pre</h1>
 <h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumikodev&label=Profile%20views&color=0e75b6&style=flat" alt="kumikodev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=predevlol&label=Profile%20views&color=0e75b6&style=flat" alt="predevlol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumikodev" alt="kumikodev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predevlol" alt="predevlol" /></a> </p>
 
-- 🔭 I’m currently working on [Blacknight Utils](https://github.com/BlackNightUtil)
+- 🔭 I’m currently working on [Akira-chan](https://discord.gg/pYBWApjyqa)
 
 - 🌱 I’m currently learning **Ruby, Rust and Vue**
 
@@ -64,6 +64,6 @@
 ### STATS
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumikodev&show_icons=true&locale=en&layout=compact" alt="kumikodev" /></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumikodev&show_icons=true&locale=en" alt="kumikodev" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumikodev&" alt="kumikodev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=predevlol&show_icons=true&locale=en&layout=compact" alt="predevlol" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=predevlol&show_icons=true&locale=en" alt="predevlol" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=predevlol&" alt="predevlol" /></p>
 
