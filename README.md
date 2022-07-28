@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Pre</h1>
-<h3 align="center">I am a full stack developer & software engineer, working on multiple open source projects, mainly Discord.js and Backends. I have created a range of Discord BOT applications allowing me to become a Trusted Discord Bot Developer.</h3>
+<h1 align="center">Hi 👋, I'm Hayden (Pre)</h1>
+<h3 align="center">I am a Software Engineer, with 3 Years Of Experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predevlol&label=Profile%20views&color=0e75b6&style=flat" alt="predevlol" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predevlol" alt="predevlol" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/kumikodev" target="blank"><img src="https://img.shields.io/twitter/follow/kumikodev?logo=twitter&style=for-the-badge" alt="kumikodev" /></a> </p>
+
 - 🔭 I’m currently working on [Akira-chan](https://discord.gg/pYBWApjyqa)
 
-- 🌱 I’m currently learning **Ruby, Rust and Vue**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Lay.rip](https://github.com/LayRipp)
+- 👯 I’m looking to collaborate on [Akira-chan](https://discord.gg/pYBWApjyqa)
 
-- 🤝 I’m looking for help with [Lay.rip](https://github.com/LayRipp)
+- 💬 Ask me about **React, Discord.JS, Python**
 
-- 💬 Ask me about **C# | C++ | Java | Typescript | Javascript | Python**
+- 📫 How to reach me **predevxyzlol@gmail.com**
 
-- 📫 How to reach me **premature_.dev@outlook.com**
+- ⚡ Fun fact **Im 16!**
 
-- ⚡ Fun fact **I'm a 16 Year Old Programmer with 3 years of Knowledge**
 
 
 <h3 align="left">Languages:</h3>
