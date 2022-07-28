@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predevlol" alt="predevlol" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/predevlol" target="blank"><img src="https://img.shields.io/twitter/follow/kumikodev?logo=twitter&style=for-the-badge" alt="kumikodev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/predevlol" target="blank"><img src="https://img.shields.io/twitter/follow/predevlol?logo=twitter&style=for-the-badge" alt="kumikodev" /></a> </p>
 
 - 🔭 I’m currently working on [Akira-chan](https://discord.gg/pYBWApjyqa)
 
