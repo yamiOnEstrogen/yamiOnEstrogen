@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akenolol&label=Profile%20views&color=0e75b6&style=flat" alt="predevlol" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=predevlol" alt="predevlol" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akenolol" alt="predevlol" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/remidev_" target="blank"><img src="https://img.shields.io/twitter/follow/remidev_?logo=twitter&style=for-the-badge" alt="kumikodev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akeno_dev" target="blank"><img src="https://img.shields.io/twitter/follow/akeno_dev?logo=twitter&style=for-the-badge" alt="kumikodev" /></a> </p>
 
 - 🔭 I’m currently working on [Akira-chan](https://discord.gg/pYBWApjyqa)
 
@@ -65,6 +65,6 @@
 ### STATS
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=predevlol&show_icons=true&locale=en&layout=compact" alt="predevlol" /></p
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=predevlol&show_icons=true&locale=en" alt="predevlol" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=predevlol&" alt="predevlol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akenolol&show_icons=true&locale=en&layout=compact" alt="predevlol" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akenolol&show_icons=true&locale=en" alt="predevlol" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akenolol&" alt="predevlol" /></p>
 
