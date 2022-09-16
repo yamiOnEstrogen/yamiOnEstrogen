@@ -112,7 +112,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ztkrtzz4grziugqpjtxna74ija&cover_image=true&theme=default" /><img src="https://lanyard.cnrad.dev/api/547923574833545226"/> </div>  
+<div align="center"><img src="https://lanyard.cnrad.dev/api/547923574833545226"/> </div>  
 
 
 <br/>  
