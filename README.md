@@ -66,5 +66,5 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/547923574833545226)](https://discord.com/users/547923574833545226)
 
 ## Stats: 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akenolol&show_icons=true&locale=en&layout=compact" alt="akenolol" /></p><p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akenolol&show_icons=true&locale=en" alt="akenolol" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akenolol&show_icons=true&locale=en&layout=compact" alt="akenolol" /></p>
 
