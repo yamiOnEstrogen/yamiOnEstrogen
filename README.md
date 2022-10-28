@@ -4,15 +4,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akenolol" alt="akenolol" /></a> </p>
 
-- 🔭 I’m currently working on [Byte Finders](https://github.com/ByteFinders)
+- 🔭 I’m currently working on [Icker](https://icker.akenodev.xyz)
 
 - 🌱 I’m currently learning **AI Development**
 
-- 👯 I’m looking to collaborate on [Byte Finders](https://github.com/ByteFinders)
+- 👯 I’m looking to collaborate on [Javasciprt Fundamentals](https://github.com/akenolol/javascript-fundamentals)
 
-- 🤝 I’m looking for help with [Red Cafe](https://cafe.akenodev.tk)
-
-- 👨‍💻 All of my projects are available at [https://akenodev.xyz](https://akenodev.xyz)
+- 👨‍💻 Most of my projects are available at [https://akenodev.xyz](https://akenodev.xyz)
 
 - 💬 Ask me about **anything related to C, C++, C#, Javascript, Typescript**
 
