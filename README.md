@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **anything related to C, C++, C#, Javascript, Typescript**
 
-- 📫 How to reach me **owner@akenodev.xyz**
+- 📫 How to reach me **oss@akenodev.xyz**
 
 - ⚡ Fun fact **I use tabs over spaces**
 
