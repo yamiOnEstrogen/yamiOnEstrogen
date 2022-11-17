@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Akeno</h1>
 <h3 align="center">Software Engineer, Web Developer, Discord Bot Developer, and a passionate learner! (I also love anime) 🐱‍🚀</h3>
 
-- 🔭 I’m currently working on [Icker](https://icker.akenodev.xyz)
+- 🔭 I’m currently working on [Red Cafe](https://redcafe.lol)
 
 - 🌱 I’m currently learning **AI Development**
 
 - 👯 I’m looking to collaborate on [Javascript Fundamentals](https://github.com/akenolol/javascript-fundamentals)
 
-- 👨‍💻 Most of my projects are available at [https://akenodev.xyz](https://akenodev.xyz)
+- 👨‍💻 Most of my projects are available at [https://akenodev.me](https://akenodev.me)
 
 - 💬 Ask me about **anything related to C, C++, C#, Javascript, Typescript**
 
-- 📫 How to reach me [oss@akenodev.xyz](mailto:oss@akenodev.xyz)
+- 📫 How to reach me [connect@akenodev.me](mailto:connect@akenodev.me)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
@@ -120,4 +120,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=akenolol&icon=2&color=9)](https://akenodev.xyz)
+[![](https://visitcount.itsvg.in/api?id=akenolol&icon=2&color=9)](https://akenodev.me)
