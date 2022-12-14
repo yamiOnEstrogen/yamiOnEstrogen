@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akeno</h1>
 <h3 align="center">Software Engineer, Web Developer, Discord Bot Developer, and a passionate learner! (I also love anime) 🐱‍🚀</h3>
 
-- 🔭 I’m currently working on [Red Cafe](https://redcafe.lol)
+- 🔭 I’m currently working on [procs.space](https://procs.space)
 
 - 🌱 I’m currently learning **AI Development**
 
