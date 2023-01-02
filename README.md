@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akeno</h1>
+<h1 align="center">Hi 👋, I'm Kiyo</h1>
 <h3 align="center">Software Engineer, Web Developer, Discord Bot Developer, and a passionate learner! (I also love anime) 🐱‍🚀</h3>
 
 - 🔭 I’m currently working on [procs.space](https://procs.space)
 
 - 🌱 I’m currently learning **AI Development**
 
-- 👯 I’m looking to collaborate on [Javascript Fundamentals](https://github.com/akenolol/javascript-fundamentals)
+- 👯 I’m looking to collaborate on [Javascript Fundamentals](https://github.com/kiyolol/javascript-fundamentals)
 
 - 👨‍💻 Most of my projects are available at [https://akenodev.me](https://akenodev.me)
 
@@ -120,4 +120,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=akenolol&icon=2&color=9)](https://akenodev.me)
+[![](https://visitcount.itsvg.in/api?id=kiyolol&icon=2&color=9)](https://akenodev.me)
