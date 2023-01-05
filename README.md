@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akeno_lol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akeno_dev" height="30" width="40" /></a>
-<a href="https://akenodev.me/invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9fd8CHWP3" height="30" width="40" /></a>
+<a href="https://twitter.com/lol_kiyodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akeno_dev" height="30" width="40" /></a>
+<a href="https://discord.gg/XhMxbBJg7t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d9fd8CHWP3" height="30" width="40" /></a>
 </p>
 
 <br>
