@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on [Javascript Fundamentals](https://github.com/kiyolol/javascript-fundamentals)
 
-- 👨‍💻 Most of my projects are available at [https://akenodev.me](https://akenodev.me)
+- 👨‍💻 Most of my projects are available at [https://kiyodev.xyz](https://kiyodev.xyz/)
 
 - 💬 Ask me about **anything related to C, C++, C#, Javascript, Typescript**
 
-- 📫 How to reach me [connect@akenodev.me](mailto:connect@akenodev.me)
+- 📫 How to reach me [kiyo@kiyodev.xyz](mailto:kiyo@kiyodev.xyz)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
