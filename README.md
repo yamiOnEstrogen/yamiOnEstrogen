@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **predevxyzlol@gmail.com**
 
-- 📄 Know about my experiences [https://1.kiyodev.xyz/cv](https://1.kiyodev.xyz/cv)
+- 📄 Know about my experiences [https://kiyodev.xyz/cv](https://1.kiyodev.xyz/cv)
 
 - ⚡ Fun fact **I use tabs over spaces**
 
