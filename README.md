@@ -1,4 +1,4 @@
-<h3 align="center">Software Engineer, Vtuber, Voice Actress</h3>
+<h3 align="center">Software Engineer, Vtuber, Voice Actress, Lover of Anime ❤</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyolol&label=Profile%20views&color=0e75b6&style=flat" alt="kiyolol" /> </p>
 
