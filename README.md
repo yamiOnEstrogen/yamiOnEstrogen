@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Chiyeko]([https://github.com/kiyolol/Chika-Bot](https://github.com/kiyolol/chiyeko-discord-bot))
+- 👯 I’m looking to collaborate on [Chiyeko](https://github.com/kiyolol/chiyeko-discord-bot)
 
 - 🤝 I’m looking for help with [Unfatal](https://home.unfatal.xyz/getting-started)
 
