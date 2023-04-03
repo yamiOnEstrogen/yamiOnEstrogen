@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyolol&label=Profile%20views&color=0e75b6&style=flat" alt="kiyolol" /> </p>
 
-- 🔭 I’m currently working on [Unfatal](https://home.unfatal.xyz/getting-started)
+- 🔭 I’m currently working on [Unfatal](https://home.unfatal.xyz/getting-started) & [Chiyeko](https://twitter.com/chiyekovt)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Chika Bot](https://github.com/kiyolol/Chika-Bot)
+- 👯 I’m looking to collaborate on [Chiyeko]([https://github.com/kiyolol/Chika-Bot](https://github.com/kiyolol/chiyeko-discord-bot))
 
 - 🤝 I’m looking for help with [Unfatal](https://home.unfatal.xyz/getting-started)
 
