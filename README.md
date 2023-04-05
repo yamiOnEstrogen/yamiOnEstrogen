@@ -1,12 +1,12 @@
 <h3 align="center">Software Engineer, Vtuber, Voice Actress, Lover of Anime ❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiyolol&label=Profile%20views&color=0e75b6&style=flat" alt="kiyolol" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenithvt&label=Profile%20views&color=0e75b6&style=flat" alt="zenithvt" /> </p>
 
 - 🔭 I’m currently working on [Unfatal](https://home.unfatal.xyz/getting-started) & [Chiyeko](https://twitter.com/chiyekovt)
 
 - 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on [Chiyeko](https://github.com/kiyolol/chiyeko-discord-bot)
+- 👯 I’m looking to collaborate on [Chiyeko](https://github.com/zenithvt/chiyeko-discord-bot)
 
 - 🤝 I’m looking for help with [Unfatal](https://home.unfatal.xyz/getting-started)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Javascript or Discord Bots**
 
-- 📫 How to reach me **predevxyzlol@gmail.com**
+- 📫 How to reach me **zenithlivebusiness@outlook.com**
 
 - 📄 Know about my experiences [https://kiyodev.xyz/cv](https://1.kiyodev.xyz/cv)
 
