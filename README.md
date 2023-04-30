@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Zenith</h1>
+<h1 align="center">Hi 👋, I'm Hylia</h1>
 <h3 align="center">Software Engineer, Vtuber, Lover of Anime ❤</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenithvt&label=Profile%20views&color=0e75b6&style=flat" alt="zenithvt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xhylia&label=Profile%20views&color=0e75b6&style=flat" alt="0xhylia" /> </p>
 
 - 🌱 I’m currently learning **Rust**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_zenithvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zenithvt" height="30" width="40" /></a>
+<a href="https://twitter.com/vthylia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_zenithvt" height="30" width="40" /></a>
 <a href="https://discord.gg/Ut9ypNE6nh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ut9ypNE6nh" height="30" width="40" /></a>
 </p>
 
