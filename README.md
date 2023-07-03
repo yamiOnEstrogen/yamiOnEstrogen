@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Hylia</h1>
 <p align="center">
-  <a href="https://twitter.com/vthylia" target="_blank"><img src="https://img.shields.io/twitter/follow/vthylia?style=for-the-badge" alt="Twitter"></a>
   <a href="https://www.twitch.tv/0xhylia" target="_blank"><img src="https://img.shields.io/twitch/status/0xhylia?style=social&style=for-the-badge" alt="Twitch"></a>
   <a href="https://invite.hyperstar.info" target="_blank"><img src="https://img.shields.io/discord/1110574418733838489?label=Discord&logo=discord&style=for-the-badge" alt="Discord"></a>
 </p>
@@ -18,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/vthylia" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
+  <a href="https://twitter.com/HyperHylia" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"></a>
   <a href="https://discord.gg/hCqQDuUY3r" target="_blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord"></a>
   <a href="https://www.twitch.tv/0xhylia" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitch--v1.png" alt="Twitch"></a>
 </p>
