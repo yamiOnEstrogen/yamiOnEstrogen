@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="125" height="125" src="https://api.goddessanime.com/users/547923574833545226/avatar?raw=true"  />
+  <img width="125" height="125" src="https://media.discordapp.net/attachments/1010372304909377578/1138652079506862130/8bbeb3f27ece7b0e7d68be98737c2764.jpg"  />
 </div>
 
 ###
