@@ -8,6 +8,15 @@
   <a href="https://discord.gg/VgXJMASJsx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
+
+</div>
+
+###
+
+<div align="center">
+    <a href="https://ko-fi.com/P5P5NTG8C" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="25" alt="kofi">
+  </a>
 </div>
 
 ###
