@@ -1,13 +1,6 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=withervt.withervt&"  />
-</div>
-
-###
-
-
-<div align="center">
   <a href="https://discord.gg/82KwZm5vmh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
