@@ -1,11 +1,14 @@
+###
+
 <div align="center">
-  <img width="125" height="125" src="https://media.discordapp.net/attachments/1010372304909377578/1138652079506862130/8bbeb3f27ece7b0e7d68be98737c2764.jpg"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=withervt.withervt&"  />
 </div>
 
 ###
 
+
 <div align="center">
-  <a href="https://discord.gg/VgXJMASJsx" target="_blank">
+  <a href="https://discord.gg/82KwZm5vmh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 
@@ -17,12 +20,6 @@
     <a href="https://ko-fi.com/P5P5NTG8C" target="_blank">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="25" alt="kofi">
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=0xhylia.0xhylia&"  />
 </div>
 
 ###
@@ -80,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=0xhylia&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=50&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=withervt&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=50&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
