@@ -1,29 +1,6 @@
-###
+<h1 align="center">🌈✨ Software Wizard, Vtuber Sorcerer, and Anime Enchanter ✨🌟</h1>
 
-<div align="center">
-  <a href="https://discord.gg/82KwZm5vmh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-
-</div>
-
-###
-
-<div align="center">
-    <a href="https://ko-fi.com/P5P5NTG8C" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" height="25" alt="kofi">
-  </a>
-</div>
-
-###
-
-<h1 align="center">Software engineer, Vtuber, and anime enthusiast</h1>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<h3 align="left">🛠️ Magical Tools and Languages 🪄</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
@@ -63,26 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔮   My Magical Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=withervt&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=50&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">🎵   My Music :</h3>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ztkrtzz4grziugqpjtxna74ija">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ztkrtzz4grziugqpjtxna74ija&count=5" alt="Spotify recently played"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=withervt&theme=rose&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
