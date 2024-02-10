@@ -1,7 +1,7 @@
 ```csharp
 using System.Runtime.InteropServices;
 
-public class DiscordProfile
+public class Profile
 {
     [DllImport("user32.dll")]
     public static extern int AboutMe();
