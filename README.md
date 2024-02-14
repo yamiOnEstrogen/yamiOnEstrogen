@@ -7,7 +7,7 @@ public class Profile
     public static extern int AboutMe();
 
     public string Name => "Stella";
-    public string Discord => "withervt"; 
+    public string Discord => "yami.dev"; 
     public string Role => "Software Developer";
     public string[] Hobbies => { "Watching Anime", "Cosplaying", "Playing Video Games" };
     public string Website => "https://hylia.dev";
