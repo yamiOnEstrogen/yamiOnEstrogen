@@ -18,5 +18,6 @@ public class Profile
     public string[] ProgrammingLanguages => { "TypeScript 100%", "C# 20%", "Python 50%", "HTML 100%", "CSS 90%", "JavaScript 100%", "C 40%" };
     public string[] Tools => { "Git", "Bootstrap", "NodeJS", "NextJS", "npm" };
 }
+// 0x48656c6c6f2c20576f726c64 \\
 ```
 
