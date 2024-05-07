@@ -26,8 +26,9 @@
 
   <br>
   <div align="center">
-    <a href="https://vtubers.tv?discord"></a>
-  <img src="./.github/assets/images/socials/discord.svg" alt="discord" width="35" height="35" /> 
+    <a href="https://vtubers.tv">
+      <img src="./.github/assets/images/socials/discord.svg" alt="discord" width="35" height="35" /> 
+    </a>
 </a>
 </div>
 </div>
