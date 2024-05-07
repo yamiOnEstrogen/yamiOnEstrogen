@@ -141,9 +141,9 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xYami&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=yamiOnEstrogen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xYami&layout=compact&theme=dracula&hide_border=false&langs_count=10" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamiOnEstrogen&layout=compact&theme=dracula&hide_border=false&langs_count=10" height="150" alt="languages graph"  />
 </div>
 
 
