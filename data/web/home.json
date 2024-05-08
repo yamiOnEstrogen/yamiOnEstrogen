@@ -1,0 +1,47 @@
+{
+    "languages": [
+        {
+            "name": "English",
+            "progress": "100%"
+        },
+        {
+            "name": "Japanese / 日本語",
+            "progress": "52%"
+        },
+        {
+            "name": "Polish / Polski",
+            "progress": "42%"
+        }
+    ],
+
+    "best_programming_languages": [
+        {
+            "name": "TypeScript",
+            "progress": "98%"
+        },
+        {
+            "name": "HTML / CSS",
+            "progress": "70%"
+        },
+        {
+            "name": "Python",
+            "progress": "60%"
+        },
+        {
+            "name": "C#",
+            "progress": "40%"
+        },
+        {
+            "name": "Rust",
+            "progress": "30%"
+        }
+    ],
+
+    "knowledge": [
+        "Git",
+        "Docker",
+        "Linux",
+        "Bootstrap",
+        "Tailwind CSS"
+    ]
+}
