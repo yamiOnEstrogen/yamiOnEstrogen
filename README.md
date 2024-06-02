@@ -158,3 +158,5 @@
 </div>
 
 ###
+
+`dism /online /Set-Edition:ServerStandard /productkey:VDYBN-27WPP-V4HQT-9VMD4-VMK7H /AcceptEula`
