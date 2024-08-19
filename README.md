@@ -12,7 +12,7 @@ To the amazing souls who have shaped me for the better:
 
 Your support and friendship have meant the world to me.
 
-I will be moving over to @[0x7ffed9b08230](https://github.com/0x7ffed9b08230) for a fresh start and new adventures. 
+I will be moving over to @[stellaOnEstrogen](https://github.com/stellaOnEstrogen) for a fresh start and new adventures. 
 
 Once more, thank you all for these amazing years and for helping me grow in ways I never imagined. 
 
